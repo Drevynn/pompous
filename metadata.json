@@ -1,0 +1,6 @@
+{
+  "name": "Pompous",
+  "description": "An AI-powered Bento design suite and content kit for musicians and bands to generate a comprehensive Brand Bible including logos, color palettes, typography, artist biographies, lyric forge, and social media templates.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
